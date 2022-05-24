@@ -1,0 +1,12 @@
+{
+  "name": "typescript-data-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jjtjs159-jg/typescript-data-structure.git",
+  "author": "jjtjs159-jg <61176987+jjtjs159-jg@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.6.4"
+  }
+}
