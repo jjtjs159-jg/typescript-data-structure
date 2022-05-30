@@ -6,7 +6,8 @@
   "author": "jjtjs159-jg <61176987+jjtjs159-jg@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "tsc && node dist/index.js",
+    "stack": "tsc && node dist/Stack.example.js"
   },
   "devDependencies": {
     "ts-node": "^10.8.0",
